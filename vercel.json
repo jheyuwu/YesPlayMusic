@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "http://163api.28815354.eu.org/:match*"
+      "destination": "http://163proxy.28815354.eu.org/:match*"
     }
   ]
 }
